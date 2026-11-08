@@ -61,5 +61,17 @@
         "nota_fiscal": "589",
         "data_chegada": "28/06/2026 17:33",
         "retirado": false
+    },
+    {
+        "codigo_rp": "06",
+        "loja": "07",
+        "produto": "argamassa fortaleza aciii",
+        "cliente": "joão",
+        "cpf": "88899966645",
+        "localizacao": "proximo cimento 50 lado da pisocoll amarela",
+        "numero_pedido": "02",
+        "nota_fiscal": "8965474",
+        "data_chegada": "08/11/2026 12:09",
+        "retirado": true
     }
 ]
